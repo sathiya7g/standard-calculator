@@ -1,1 +1,3 @@
-# standard-calculator
+# STANDARD-CALCULATOR
+# OUTPUT:
+![OUTPUT](https://github.com/Krishna-Prakaash/STANDARD-CALCULATOR/assets/93427144/e30ed1b8-9943-4487-b916-813ce373ec34)
